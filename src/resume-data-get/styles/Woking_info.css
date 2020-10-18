@@ -1,0 +1,87 @@
+.working-info{
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+.working-info-form{
+    box-shadow: 2px 3px 8px 3px rgba(172, 167, 167, 0.75);
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+}
+.achivement-top{
+    display: flex;
+    justify-content: space-between;
+    background-color: wheat;
+    padding: 9px;
+    margin-left: 9%;
+    margin-right: 9%;
+    border-radius: 10px;
+    align-items: center;
+    position: relative;
+}
+.achivement-title > span{
+    font-size: large;
+}
+.achivement-bottom{
+    background-color: rgb(235, 229, 229);
+    border-radius: 10px;
+    padding: 15px;
+    display: flex;
+    margin-left: 9%;
+    margin-right: 9%;
+    justify-content: space-between;
+}
+.achivement-bottom-button{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.achivement-bottom-button{
+    padding-left: 20px;
+}
+.additional-info-box{
+    display: flex;
+    justify-content: space-between;
+    background-color: wheat;
+    padding: 9px;
+    margin-left: 9%;
+    margin-right: 9%;
+    border-radius: 10px;
+    align-items: center;
+    position: relative;
+}
+.additional-info-title > span{
+    font-size: large;
+}
+
+.additional-info-bottom{
+    margin-left: 9%;
+    margin-right: 5%;
+}
+.additional-info-bottom-button{
+    display:  flex;
+    justify-content: space-evenly;
+}
+.working-info-show{
+    background-color: wheat;
+    border-radius: 15px;
+    padding: 20px;
+}
+.working-data-top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.working-data-top>span{
+    font-size: 30px;
+    font-weight: 600;
+}
+.working-data-center{
+    padding: 9px;
+}
+.woking-c-name{
+    font-size: 23px;
+    padding-bottom: 5px;
+}

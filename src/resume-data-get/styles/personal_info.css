@@ -1,0 +1,46 @@
+.personal_info{
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    background-color: rgba(243, 241, 241, 0.973);
+}
+@media screen and (max-width: 800px) {
+    .personal_info{
+        padding-left: 15%;
+        padding-right: 15%;
+        padding-top: 6%;
+        padding-bottom: 6%;
+        background-color: rgba(243, 241, 241, 0.973);
+    }
+}
+@media screen and (max-width: 500px) {
+    .personal_info{
+        padding-left: 8%;
+        padding-right: 8%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+        background-color: rgba(243, 241, 241, 0.973);
+    }
+}
+@media screen and (max-width: 300px) {
+    .personal_info{
+        padding-left: 7%;
+        padding-right: 7%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+        background-color: rgba(243, 241, 241, 0.973);
+    }
+}
+.form_box{
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 20px;
+}
+.input_hint{
+    color: rgb(168, 164, 164);
+    font-size: 12px;
+}
+

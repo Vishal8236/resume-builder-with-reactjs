@@ -1,0 +1,20 @@
+.show_template_i{
+    padding: 50px;
+    text-align: center;
+}
+.show_template_i >img{
+    height: 900px;
+    width: 900px;
+    box-shadow: 6px 8px 9px 9px rgb(209, 193, 193);
+}
+.tamplate_header{
+    padding: 50px;
+}
+.tamplate_header >span{
+    border-radius: 15px;
+    background-color: rgb(226, 219, 219);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}

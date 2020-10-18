@@ -1,0 +1,20 @@
+.all_templates{
+    padding: 20px;
+}
+.template_i > img{
+    box-shadow: 0px 8px 4px 3px rgba(151, 135, 135, 0.76);
+    height: 400px;
+    width: 400px;
+}
+.tamplate-bottom > span{
+    font-size: 20px;
+    color: #0066ff;
+    cursor: pointer;
+}
+.template_i > img:hover{
+    transform: scale(1.1);
+}
+.tamplate-bottom{
+    display: flex;
+    justify-content: space-around;
+}
